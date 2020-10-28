@@ -130,3 +130,40 @@ G:\TICOM CONTABLE MICHAEL 2018\ticomcontable-Michael-14nov 2018\TicomContable201
 G:\TICOM CONTABLE MICHAEL 2018\ticomcontable-Michael-14nov 2018\TicomContable2015\presentaciones\obj\Debug\presentaciones.frmMonedas.resources
 E:\TICOM CONTABLE MICHAEL 2018\ticomcontable-Michael-14nov 2018\TicomContable2015\presentaciones\obj\Debug\presentaciones.frmBancos.resources
 E:\TICOM CONTABLE MICHAEL 2018\ticomcontable-Michael-14nov 2018\TicomContable2015\presentaciones\obj\Debug\presentaciones.frmMonedas.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\bin\Debug\presentaciones.exe.config
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.exe
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.xml
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.pdb
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\bin\Debug\presentaciones.exe
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\bin\Debug\presentaciones.pdb
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\bin\Debug\presentaciones.xml
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\bin\Debug\Datos.dll
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\bin\Debug\Entidades.dll
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\bin\Debug\Negocios.dll
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\bin\Debug\Datos.pdb
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\bin\Debug\Datos.xml
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\bin\Debug\Entidades.pdb
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\bin\Debug\Entidades.xml
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\bin\Debug\Negocios.pdb
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\bin\Debug\Negocios.xml
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.vbprojResolveAssemblyReference.cache
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmAnalisisCuenta.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmBancos.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmCuentasContables.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmEleccionEmpresa.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmEmpresas.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmEmpresasPeriodos.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmEscogerPlanContable.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmListadeCentrodeCostos.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmMonedas.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmNiveldeCuentaContable.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmNuevaCompra.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmNuevaCompraAgregarCuentas.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmPlanContable.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmTipoCuentaContable.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmUsuarios.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.frmUsuariosEmpresa.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.LoginForm1.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.MDIPrincipal.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.Resources.resources
+C:\Users\pepito\Documents\GitHub\siscontable\presentaciones\obj\Debug\presentaciones.vbproj.GenerateResource.Cache

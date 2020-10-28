@@ -58,3 +58,18 @@ G:\TICOM CONTABLE MICHAEL 2018\ticomcontable-Michael-14nov 2018\TicomContable201
 G:\TICOM CONTABLE MICHAEL 2018\ticomcontable-Michael-14nov 2018\TicomContable2015\Negocios\obj\Debug\Negocios.dll
 G:\TICOM CONTABLE MICHAEL 2018\ticomcontable-Michael-14nov 2018\TicomContable2015\Negocios\obj\Debug\Negocios.xml
 G:\TICOM CONTABLE MICHAEL 2018\ticomcontable-Michael-14nov 2018\TicomContable2015\Negocios\obj\Debug\Negocios.pdb
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\bin\Debug\Negocios.dll
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\bin\Debug\Negocios.pdb
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\bin\Debug\Negocios.xml
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\bin\Debug\Datos.dll
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\bin\Debug\Entidades.dll
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\bin\Debug\Datos.pdb
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\bin\Debug\Datos.xml
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\bin\Debug\Entidades.pdb
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\bin\Debug\Entidades.xml
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\obj\Debug\Negocios.vbprojResolveAssemblyReference.cache
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\obj\Debug\Negocios.Resources.resources
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\obj\Debug\Negocios.vbproj.GenerateResource.Cache
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\obj\Debug\Negocios.dll
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\obj\Debug\Negocios.xml
+C:\Users\pepito\Documents\GitHub\siscontable\Negocios\obj\Debug\Negocios.pdb

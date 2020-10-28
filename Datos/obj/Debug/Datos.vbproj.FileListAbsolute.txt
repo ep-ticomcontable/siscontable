@@ -46,3 +46,15 @@ G:\TICOM CONTABLE MICHAEL 2018\ticomcontable-Michael-14nov 2018\TicomContable201
 G:\TICOM CONTABLE MICHAEL 2018\ticomcontable-Michael-14nov 2018\TicomContable2015\Datos\obj\Debug\Datos.dll
 G:\TICOM CONTABLE MICHAEL 2018\ticomcontable-Michael-14nov 2018\TicomContable2015\Datos\obj\Debug\Datos.xml
 G:\TICOM CONTABLE MICHAEL 2018\ticomcontable-Michael-14nov 2018\TicomContable2015\Datos\obj\Debug\Datos.pdb
+C:\Users\pepito\Documents\GitHub\siscontable\Datos\bin\Debug\Datos.dll
+C:\Users\pepito\Documents\GitHub\siscontable\Datos\bin\Debug\Datos.pdb
+C:\Users\pepito\Documents\GitHub\siscontable\Datos\bin\Debug\Datos.xml
+C:\Users\pepito\Documents\GitHub\siscontable\Datos\bin\Debug\Entidades.dll
+C:\Users\pepito\Documents\GitHub\siscontable\Datos\bin\Debug\Entidades.pdb
+C:\Users\pepito\Documents\GitHub\siscontable\Datos\bin\Debug\Entidades.xml
+C:\Users\pepito\Documents\GitHub\siscontable\Datos\obj\Debug\Datos.vbprojResolveAssemblyReference.cache
+C:\Users\pepito\Documents\GitHub\siscontable\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\pepito\Documents\GitHub\siscontable\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\pepito\Documents\GitHub\siscontable\Datos\obj\Debug\Datos.dll
+C:\Users\pepito\Documents\GitHub\siscontable\Datos\obj\Debug\Datos.xml
+C:\Users\pepito\Documents\GitHub\siscontable\Datos\obj\Debug\Datos.pdb
